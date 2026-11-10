@@ -7,36 +7,61 @@ this digital system was made to facilitate the management of medicines, their su
 this application was developed using JavaSwing/AWT with the help of JDBC for database connectivity, it was made using tools such as intellij and mySQL workbench.
 
 MAIN FEATURES OF THE SYSTEM:
+
 1 User authentication and role-based access
+
 2 Administrator dashboard
+
 3 Cashier point-of-sale (POS)
+
 4 Medicine inventory management
+
 5 Supplier management
+
 6 Cashier user management
+
 7 Stock availability checking
+
 8 Shopping cart and checkout
+
 9 Automatic stock deduction after successful sales
+
 10 Bill generation
+
 11 Printing and saving customer bills
+
 12 Sales reporting
+
 13 Item-wise sales reporting
+
 14 Low-stock reporting
+
 15 Medicine expiry reporting
+
 16 Logout functionality
 
 USERS OF THE SYSTEM
 
 1. Administrator (has CRUD functionality)
+
 Administrators have access to the management and reporting functions of the system.
+
 Administrator functions include:
+
  a. Managing Medicines - they can Add, View, Update and Delete medicines. 
+ 
  b. Managing Suppliers - they can Add, View, Delete and Update supplier details.
+ 
  c. Managing Users - They can Create, View, Manage and Delete cashier accounts.
+ 
  d. Access to the Reports - They can view the Sales, Item-Wise, Low Stock, and Expiry Reports
 
 2. Cashier
+
 Cashiers have access to functions they need to conduct and process sales.
+
 Cashier functions include:
+
 a. View available medicines
 
 b. Check medicine prices and availability
