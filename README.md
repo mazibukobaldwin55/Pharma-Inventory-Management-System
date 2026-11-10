@@ -40,7 +40,7 @@ this application was developed using JavaSwing/AWT with the help of JDBC for dat
 
 16 Logout functionality
 
-USERS OF THE SYSTEM
+**USERS OF THE SYSTEM**
 
 **1. Administrator (has CRUD functionality)**
 
@@ -85,6 +85,7 @@ j. Log out of the system
 **Cashiers cannot manage medicines, suppliers, or user accounts.**
 
 #DEFAULT LOGIN CREDENTIALS
+
 **Administrator Account**
 
 Username: admin
@@ -98,16 +99,25 @@ Role: Cashier
 
 **3. HOW TO START THE APPLICATION USING THE EXECUTABLE**
 The project includes a packaged Windows executable.
+
 a. Navigate to: my_executable__/PIMS_exe/
+
 b. Run: pims.exe
+
 **The packaged application contains the required Java runtime and application files.
 
 **4. Database Setup**
+
 The application uses a MySQL-compatible database named: pims_db
+
 The database script is provided as: my_database.sql
+
 The script creates the database, tables, relationships, and initial sample data.
+
 **Before running the application from the source code, ensure that the database server is running and that the database has been created using the supplied SQL script.
+
 ***********************************************
+
 **POINT OF SALE PROCESS (Cashier Functionality)**
 
 The general process is:
