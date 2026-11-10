@@ -6,6 +6,7 @@ In this assignment we build an Inventory Management system for a local pharmacy 
 this digital system was made to facilitate the management of medicines, their suppliers, the pharmacy's inventory, business and sales reports along with users of the system(cashier/admin).
 this application was developed using JavaSwing/AWT with the help of JDBC for database connectivity, it was made using tools such as intellij and mySQL workbench.
 
+
 **MAIN FEATURES OF THE SYSTEM:**
 
 1 User authentication and role-based access
@@ -40,6 +41,7 @@ this application was developed using JavaSwing/AWT with the help of JDBC for dat
 
 16 Logout functionality
 
+
 **USERS OF THE SYSTEM**
 
 **1. Administrator (has CRUD functionality)**
@@ -55,6 +57,7 @@ Administrator functions include:
  c. Managing Users - They can Create, View, Manage and Delete cashier accounts.
  
  d. Access to the Reports - They can view the Sales, Item-Wise, Low Stock, and Expiry Reports
+ 
 
 **2. Cashier**
 
@@ -84,6 +87,7 @@ j. Log out of the system
 
 **Cashiers cannot manage medicines, suppliers, or user accounts.**
 
+
 #DEFAULT LOGIN CREDENTIALS
 
 **Administrator Account**
@@ -97,7 +101,9 @@ Username: cashier
 Password: cashing1000s
 Role: Cashier
 
+
 **3. HOW TO START THE APPLICATION USING THE EXECUTABLE**
+
 The project includes a packaged Windows executable.
 
 a. Navigate to: my_executable__/PIMS_exe/
@@ -105,6 +111,7 @@ a. Navigate to: my_executable__/PIMS_exe/
 b. Run: pims.exe
 
 **The packaged application contains the required Java runtime and application files.
+
 
 **4. Database Setup**
 
@@ -117,6 +124,7 @@ The script creates the database, tables, relationships, and initial sample data.
 **Before running the application from the source code, ensure that the database server is running and that the database has been created using the supplied SQL script.
 
 ***********************************************
+
 
 **POINT OF SALE PROCESS (Cashier Functionality)**
 
@@ -143,6 +151,7 @@ i. Stock quantities are updated.
 j. A bill window is displayed.
 
 k. The bill can be printed or saved as a text file.
+
 
 **STOCK MANAGEMENT**
 
