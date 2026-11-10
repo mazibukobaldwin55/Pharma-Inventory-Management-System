@@ -38,15 +38,25 @@ Administrator functions include:
 Cashiers have access to functions they need to conduct and process sales.
 Cashier functions include:
 a. View available medicines
+
 b. Check medicine prices and availability
+
 c. Add medicines to the shopping cart
+
 d. Increase or decrease quantities
+
 e. Clear the cart
+
 f. Complete a sale through checkout
+
 g. Generate a customer bill
+
 h. Print a bill
+
 i. Save a bill as a text file
+
 j. Log out of the system
+
 **Cashiers cannot manage medicines, suppliers, or user accounts.
 
 DEFAULT LOGIN CREDENTIALS
