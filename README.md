@@ -2,7 +2,7 @@ My Name is Baldwin Sihle Mazibuko
 
 **SYSTEM OVERVIEW**
 
-In this assignment we build an Inventory Management system for a local pharmacy named "HealthFirst", it was designed and developed to assist the pharmacy
+In this assignment we built an Inventory Management system for a local pharmacy, it was designed and developed to assist the pharmacy
 this digital system was made to facilitate the management of medicines, their suppliers, the pharmacy's inventory, business and sales reports along with users of the system(cashier/admin).
 this application was developed using JavaSwing/AWT with the help of JDBC for database connectivity, it was made using tools such as intellij and mySQL workbench.
 
